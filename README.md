@@ -1,4 +1,7 @@
-![lolmmr logo](https://github.com/yourusername/yourrepo/blob/main/logo.png?raw=true)
+<p align="center">
+  <img src="https://github.com/jamshedmalik/lolmmr/blob/main/logo.png?raw=true" alt="lolmmr.com logo" width="220"/>
+</p>
+
 
 # lolmmr.com - League of Legends MMR Checker
 
