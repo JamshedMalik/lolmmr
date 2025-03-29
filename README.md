@@ -1,3 +1,5 @@
+![lolmmr logo](https://github.com/yourusername/yourrepo/blob/main/logo.png?raw=true)
+
 # lolmmr.com - League of Legends MMR Checker
 
 [![Website](https://img.shields.io/website-up-down-green-red/https/lolmmr.com.svg)](https://lolmmr.com)
